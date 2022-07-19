@@ -1,0 +1,39 @@
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\TV Dashboard.exe
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\appsettings.json
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\TV Dashboard.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\TV Dashboard.runtimeconfig.json
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\TV Dashboard.pdb
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Client.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Runtime.Caching.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Windows.Extensions.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+W:\Virgin Automation\.NET Core Solution - Development Env\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\TV Dashboard.deps.json

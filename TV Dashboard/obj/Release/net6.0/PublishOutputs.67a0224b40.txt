@@ -1,0 +1,39 @@
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\TV Dashboard.exe
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\TV Dashboard.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\TV Dashboard.runtimeconfig.json
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\TV Dashboard.pdb
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Client.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Runtime.Caching.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\System.Windows.Extensions.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\TV Dashboard\TV Dashboard\obj\Release\net6.0\PubTmp\Out\TV Dashboard.deps.json

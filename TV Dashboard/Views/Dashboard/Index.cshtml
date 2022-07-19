@@ -1,0 +1,53 @@
+﻿@model IEnumerable<LogsModel>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container-fluid">
+    <table class="table table-hover text-center" style="width: 100%">
+        <thead>
+            <tr class="text-center">
+
+                <th>
+                    @Html.DisplayNameFor(model => model.LogDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LogTime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ApplicationName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProcessName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Status)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LogDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LogTime)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ApplicationName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProcessName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
