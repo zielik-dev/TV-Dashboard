@@ -7,3 +7,6 @@ TV Dashboard is an ASP.NET Core Web App built in the MVC architecture, designed 
 * Utilizes Entity Framework Core for database interaction.
 * Presents a user-friendly dashboard for displaying transaction logs.
 * Built on the .NET 5 runtime for performance and compatibility.
+
+### Additional info
+Created and released into production environment: 15.05.2022
