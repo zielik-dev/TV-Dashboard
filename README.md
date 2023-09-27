@@ -1,6 +1,6 @@
 # TV Dashboard
 
-TV Dashboard is an ASP.NET Core Web App built in the MVC architecture, designed to retrieve data from a SQL Server 2019 database using Entity Framework Core. The primary goal of this application is to provide a real-time display on a TV screen, showing the most recent 45 records from the database, which represent transaction logs for various applications within our ecosystem.
+TV Dashboard is a simple ASP.NET Core Web App built in the MVC architecture, designed to retrieve data from a SQL Server 2019 database using Entity Framework Core. The primary goal of this application is to provide a real-time display on a TV screen, showing the most recent 18 records from the database in descending order, which represent transaction logs for various applications within our ecosystem.
 
 ## Features
 * Fetches data from SQL Server 2019.
